@@ -1,1 +1,1 @@
-# satelliteProject
+# Satellite Project
